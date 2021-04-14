@@ -11,3 +11,7 @@ cd Stroke-Lesion-Segmentation-UNet
 ```
 pip install -r requirements.txt
 ```
+
+## Data
+* Data used here comes from [sub-acute ischemic stroke lesion segmentation challenge (SISS), Ischemic Stroke Lesion Segmentation Challenge (ISLES) 2015](http://www.isles-challenge.org/ISLES2015/), which is not provided here. We recommend you to register by yourself.
+* 
