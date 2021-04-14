@@ -13,8 +13,9 @@ pip install -r requirements.txt
 ```
 
 ## Data
-* Data used here comes from [sub-acute ischemic stroke lesion segmentation challenge (SISS), Ischemic Stroke Lesion Segmentation Challenge (ISLES) 2015](http://www.isles-challenge.org/ISLES2015/). The dataset is not provided here. which is recommended for you to register by yourself.
-* This project process data by transforming them to 2D slices, normalizing and saveing them in `./data/`, which contributes a lot to training speed.
+* The whole dataset is not provided here.
+* Data used in this project comes from [sub-acute ischemic stroke lesion segmentation challenge (SISS), Ischemic Stroke Lesion Segmentation Challenge (ISLES) 2015](http://www.isles-challenge.org/ISLES2015/).
+* Data is processed by transforming them to 2D slices, normalizing and saving them in `./data/`, which contributes a lot to training speed.
 * `./data/` and `./raw_data/` show examples of data structure.
 
 ## Train and test
